@@ -1,0 +1,13 @@
+Integrantes: Federico Amato, Maximiliano J. Eloy, Agustín sanchez, Antonio Lugo
+
+En que trabajaron: 
+
+Federico: Videojuegos.html(pagina principal), IniciarSesion.html(inicio de sesion del usuario), registro.html(Registrarse a la pagina),contraseñaperdida.html(recuperar contraseña del usuario).
+
+Maximiliano J. Eloy: Videojuego ProjectZomboid
+
+Agustín Sanchez: Videojuego Gta V
+
+Antonio Lugo: Videojuego Minecraft
+
+Espero que les guste :) y se aceptan criticas constructivas.
